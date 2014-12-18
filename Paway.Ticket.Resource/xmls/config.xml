@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Name="应用程序配置文件" Version="1.0.0.1">
+  <User>
+    <LoginInfo LoginName="" LoginPwd="" Auto="0"></LoginInfo>
+  </User>
+</Application>

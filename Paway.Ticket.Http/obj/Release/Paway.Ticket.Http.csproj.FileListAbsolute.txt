@@ -1,0 +1,10 @@
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\obj\Release\Paway.Ticket.Http.csprojResolveAssemblyReference.cache
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Http.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Http.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Package.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Newtonsoft.Json.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Package.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\obj\Release\Paway.Ticket.Http.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\obj\Release\Paway.Ticket.Http.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Log.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Http\bin\Release\Paway.Ticket.Log.pdb

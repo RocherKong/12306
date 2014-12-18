@@ -1,0 +1,5 @@
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Package\bin\Release\Paway.Ticket.Package.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Package\bin\Release\Paway.Ticket.Package.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Package\bin\Release\Newtonsoft.Json.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Package\obj\Release\Paway.Ticket.Package.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Package\obj\Release\Paway.Ticket.Package.pdb

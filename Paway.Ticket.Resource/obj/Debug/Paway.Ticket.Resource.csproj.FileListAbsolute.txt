@@ -1,0 +1,13 @@
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.pdb
+D:\彭伟\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.dll
+D:\彭伟\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.pdb
+D:\彭伟\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.dll
+D:\彭伟\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.pdb
+H:\资料\抢票工具源码\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.dll
+H:\资料\抢票工具源码\Paway.Ticket\Paway.Ticket.Resource\bin\Debug\Paway.Ticket.Resource.pdb
+H:\资料\抢票工具源码\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\ResolveAssemblyReference.cache
+H:\资料\抢票工具源码\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.dll
+H:\资料\抢票工具源码\Paway.Ticket\Paway.Ticket.Resource\obj\Debug\Paway.Ticket.Resource.pdb

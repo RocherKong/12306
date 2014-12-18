@@ -1,0 +1,4 @@
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Win32\bin\Release\Paway.Ticket.Win32.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Win32\bin\Release\Paway.Ticket.Win32.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Win32\obj\Release\Paway.Ticket.Win32.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Win32\obj\Release\Paway.Ticket.Win32.pdb

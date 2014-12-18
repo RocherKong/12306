@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D2E51F17-2584-4486-A28E-342CE04EFAD1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Paway.Ticket.Resource</RootNamespace>
+    <AssemblyName>Paway.Ticket.Resource</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppResource.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\framemod.png" />
+    <EmbeddedResource Include="Images\icon_date_notice.png" />
+    <EmbeddedResource Include="Images\Loading\1.png" />
+    <EmbeddedResource Include="Images\Loading\2.png" />
+    <EmbeddedResource Include="Images\Loading\3.png" />
+    <EmbeddedResource Include="Images\Loading\4.png" />
+    <EmbeddedResource Include="Images\Loading\5.png" />
+    <EmbeddedResource Include="Images\Loading\6.png" />
+    <EmbeddedResource Include="Images\Loading\7.png" />
+    <EmbeddedResource Include="Images\Loading\8.png" />
+    <EmbeddedResource Include="Images\Loading\error.png" />
+    <EmbeddedResource Include="Images\location.png" />
+    <EmbeddedResource Include="Images\logo\logo.ico" />
+    <EmbeddedResource Include="Images\logo\logo.png" />
+    <EmbeddedResource Include="Images\menu.png" />
+    <EmbeddedResource Include="Images\sys_button_close.png" />
+    <EmbeddedResource Include="Images\sys_button_max.png" />
+    <EmbeddedResource Include="Images\sys_button_min.png" />
+    <EmbeddedResource Include="Images\sys_button_restore.png" />
+    <EmbeddedResource Include="Images\tab\appbar.timer.png" />
+    <EmbeddedResource Include="Images\tab\appbar.train.png" />
+    <EmbeddedResource Include="Images\tab\appbar.user.png" />
+    <EmbeddedResource Include="Images\tab\未标题-1.png" />
+    <EmbeddedResource Include="Images\toolbar_hover.png" />
+    <EmbeddedResource Include="jsons\citys.txt" />
+    <EmbeddedResource Include="jsons\hotCitys.txt" />
+    <EmbeddedResource Include="xmls\config.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="jsons\allCitys.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\block\close_hover.png" />
+    <EmbeddedResource Include="Images\block\close_normal.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

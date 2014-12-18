@@ -1,0 +1,13 @@
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\bin\Debug\Paway.Ticker.exe.config
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\bin\Debug\Paway.Ticker.exe
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\bin\Debug\Paway.Ticker.pdb
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.Form1.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.FrmConfirmOrder.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.FrmLogin.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.FrmMain.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.Properties.Resources.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.UI.PWCitysPanel.resources
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.csproj.GenerateResource.Cache
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.exe
+C:\Users\伟\Desktop\Paway.Ticker\Paway.Ticker\obj\x86\Debug\Paway.Ticker.pdb

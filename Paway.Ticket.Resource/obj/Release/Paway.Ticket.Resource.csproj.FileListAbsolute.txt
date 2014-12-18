@@ -1,0 +1,4 @@
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\bin\Release\Paway.Ticket.Resource.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\bin\Release\Paway.Ticket.Resource.pdb
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\obj\Release\Paway.Ticket.Resource.dll
+C:\Users\伟\Desktop\Paway.Ticket\Paway.Ticket.Resource\obj\Release\Paway.Ticket.Resource.pdb
